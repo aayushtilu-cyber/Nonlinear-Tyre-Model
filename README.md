@@ -34,7 +34,7 @@ The model predicts tire forces and moments by simulating contact patch behavior 
 
 | Parameter | Value |
 |-----------|---------|
-| Vertical Load (Fz) | 840 N |
+| Vertical Load (Fz) | 3000 N |
 | Contact Length (2a) | 0.20 m |
 | Contact Width (2b) | 0.16 m |
 | Rolling Radius | 0.30 m |
